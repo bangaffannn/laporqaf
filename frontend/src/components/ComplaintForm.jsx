@@ -33,7 +33,7 @@ function ComplaintForm() {
   };
 
   return (
-    <div>
+    <div className="bg-violet-700 text-gray-400">
       <h2>Form Pengaduan</h2>
       <form onSubmit={handleSubmit}>
         <div>
